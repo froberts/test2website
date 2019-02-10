@@ -1,0 +1,11 @@
+body{
+    background: white url("images/75385826-craft-paper-texture-rustic-vintage-background.jpg");
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: "Satisfy", cursive;
+}
