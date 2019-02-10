@@ -6,7 +6,7 @@ from django.contrib.auth import authenticate, login
 from django.views.generic import View
 from .models import Album
 from .forms import UserForm
-# comment  see this more
+# comment  see this more stuff
 
 
 class IndexView(generic.ListView):
